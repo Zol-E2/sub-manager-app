@@ -18,7 +18,8 @@
           "backgroundColor": "#ffffff"
         }
       ],
-      "expo-router"
+      "expo-router",
+      "expo-image"
     ],
     "orientation": "portrait",
     "icon": "./assets/icon.png",
